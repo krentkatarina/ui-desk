@@ -279,7 +279,7 @@ p {
 .main__container-right::before {
     position: absolute;
     content: '';
-    background-image: url('/images/bg-elements.png');
+    background-image: url('images/bg-elements.png');
     background-size: contain;
     background-repeat: no-repeat;
     top: 10px;
@@ -566,7 +566,7 @@ p {
 }
 .chef__item::before {
     position: absolute;
-    content: url('/images/check.png');
+    content: url('images/check.png');
     left: -40px;
     top: 2px;
 }
